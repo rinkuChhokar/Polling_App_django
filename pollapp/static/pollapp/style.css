@@ -1,0 +1,27 @@
+li a {
+    color: green;
+}
+
+
+
+#head1{
+    background-image: url('/static/pollapp/images/beautiful-color-ui-gradients-backgrounds-bloody-mary.png');
+    color: aliceblue;
+    
+}
+#heading{
+    font-family:'Lucida Sans';
+}
+
+#img1{
+    pointer-events: none;
+}
+
+#img2{
+    pointer-events: none;
+}
+
+#img3{
+    pointer-events: none;
+}
+
