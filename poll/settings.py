@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-sa50=_2)_x7^q$r#+0(!5f1ix(4r@hmplksp-bw#^9)oppz*gx'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['pollgo.herokuapp.com','127.0.0.1']
 
